@@ -7,8 +7,7 @@ import Bomb from './Bomb';
 // // import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(<HelloWorld />, document.getElementById('root'));
-ReactDOM.render(<Bomb />, document.getElementById('root'));
-
+ReactDOM.render(<Bomb />, document.getElementById('bomb'));
 
 // // If you want your app to work offline and load faster, you can change
 // // unregister() to register() below. Note this comes with some pitfalls.
